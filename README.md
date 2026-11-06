@@ -1,157 +1,118 @@
 <div align="center">
 
-<!-- Oceanic Futuristic Hero Banner -->
+<!-- Hero Banner -->
 <a href="https://github.com/Srihari-Asus">
-  <img src="assets/ocean-header.svg" alt="Srihari S - Aspiring Software Developer" width="100%" />
+  <img src="assets/banner.svg" alt="Srihari S | Software Development Engineer" width="100%" />
 </a>
 
 <br/>
 
 <!-- Animated Typing Introduction -->
 <a href="https://github.com/Srihari-Asus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Aspiring+Software+Development+Engineer;Full+Stack+Developer+Intern+%40+Knite+Infotech;B.E.+Computer+Science+%26+Engineering+(2024–2028);Java%2C+Problem-Solving+%26+AI-Assisted+Systems" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&multiline=false&width=620&height=40&lines=Software+Development+Engineer+Aspirant;Full+Stack+Developer+Intern+%40+Knite+Infotech;BE+Computer+Science+%26+Engineering;Building+Robust+%26+Scalable+Solutions" alt="Animated Typing Introduction" />
 </a>
 
 <br/>
 
-<!-- Social & Communication Quick Bar -->
+<!-- Social & Profile Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sriharis2305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sriharis2305-071B35?style=flat-square&logo=linkedin&logoColor=20D6C7&labelColor=0A2540" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-sriharis2305-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E50914" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Srihari__Leetcode-071B35?style=flat-square&logo=leetcode&logoColor=00B8D9&labelColor=0A2540" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Srihari__Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=E50914" alt="LeetCode" />
   </a>
   <a href="https://github.com/Srihari-Asus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Srihari--Asus-071B35?style=flat-square&logo=github&logoColor=E8F7FC&labelColor=0A2540" alt="GitHub" />
-  </a>
-  <a href="mailto:srihari23052007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srihari23052007%40gmail.com-071B35?style=flat-square&logo=gmail&logoColor=20D6C7&labelColor=0A2540" alt="Email" />
-  </a>
-  <a href="https://instagram.com/sri.hari_23" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-sri.hari23-071B35?style=flat-square&logo=instagram&logoColor=00B8D9&labelColor=0A2540" alt="Instagram" />
+    <img src="https://img.shields.io/badge/GitHub-Srihari--Asus-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=E50914" alt="GitHub" />
   </a>
 </p>
 
-<!-- Oceanic Section Divider -->
-<img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+<!-- Quick Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Development%20Engineer-E50914?style=flat-square&labelColor=0D1117" alt="Target Role" />
+  <img src="https://img.shields.io/badge/Internship-Knite%20Infotech-E50914?style=flat-square&labelColor=0D1117" alt="Internship" />
+  <img src="https://img.shields.io/badge/Education-BE%20CSE%20%7C%202024--2028-0D1117?style=flat-square&color=FF3333" alt="Education" />
+</p>
+
+<img src="assets/divider.svg" alt="Section Divider" width="100%" />
 
 </div>
 
-## 🌊 About Me
+## 📌 About Me
 
 ```yaml
-profile:
-  name: Srihari S
-  status: Aspiring Software Development Engineer
-  education:
-    degree: Bachelor of Engineering
-    department: Computer Science and Engineering
-    institution: Sri Krishna College of Technology
-    batch: 2024 — 2028
-  focus_areas:
-    - Full-Stack Web Architecture
-    - Java & Algorithmic Problem-Solving
-    - Building Practical Scalable Applications
-    - AI-Assisted Technologies
+Name: Srihari S
+Role: Software Development Engineer Aspirant
+Current_focus: Full Stack Engineering, DSA & Scalable Systems
+Internship: Full Stack Developer Intern @ Knite Infotech
+Education:
+  Degree: B.E. Computer Science and Engineering
+  Institution: Sri Krishna College of Technology
+  Timeline: 2024 — 2028
 ```
 
-I am a Computer Science and Engineering undergraduate at **Sri Krishna College of Technology** (2024–2028), driven by a strong interest in software development and full-stack engineering. My technical foundation centers on **Java**, algorithmic problem-solving, and constructing robust, practical digital applications that solve real-world challenges.
-
-Alongside core engineering, I am actively exploring **AI-assisted technology** and intelligent application architectures, aiming to design software systems that are reliable, performant, and purposeful.
+- 🎯 **Career Target:** Software Development Engineer (SDE)
+- 💼 **Professional Experience:** Completed intern as a **Full Stack Developer Intern** at **Knite Infotech**, developing responsive frontend interfaces and reliable backend services.
+- 🎓 **Academic Foundation:** Pursuing Computer Science and Engineering at **Sri Krishna College of Technology**, focusing on data structures, algorithmic efficiency, and software architecture.
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 🛠️ Technical Skills
+## 💻 Technical Arsenal
 
 <div align="center">
 
-| Category | Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Programming** | <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" alt="Programming: Java, C++, Python, JavaScript" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend: React, Next.js, HTML, CSS, Tailwind CSS" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Backend: Spring Boot, Node.js" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" alt="Databases: MySQL, PostgreSQL, Firebase" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Tools: Git, GitHub, Postman" /> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" alt="Languages: Java, C++, Python, JavaScript" /> |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend: React, Next.js, HTML, CSS, Tailwind CSS" /> |
+| **Backend Engineering** | <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="Backend: Node.js, Spring Boot" /> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" alt="Databases: MySQL, PostgreSQL, Firebase" /> |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Tools: Git, GitHub, Postman" /> |
 
 </div>
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
 ## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">🌱 AgroPlay — AI-Assisted Smart Farming Ecosystem</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 AgroPlay</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-React%20Native-00B8D9?style=flat-square&labelColor=071B35" alt="React Native" />
-        <img src="https://img.shields.io/badge/Backend%20%2F%20DB-Firebase-20D6C7?style=flat-square&labelColor=071B35" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Database-PostgreSQL-087EAB?style=flat-square&labelColor=071B35" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Intelligence-Machine%20Learning-00B8D9?style=flat-square&labelColor=071B35" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Architecture-AI--Assisted-FF3333?style=flat-square&labelColor=0D1117" alt="AI Assisted" />
+        <img src="https://img.shields.io/badge/Domain-Smart%20Farming-black?style=flat-square&color=E50914" alt="Smart Farming" />
       </p>
-      <p>An intelligent, AI-assisted smart farming ecosystem architected to support precision agriculture and empower farmers with data-driven decision-making tools.</p>
+      <p>An AI-assisted smart farming ecosystem designed to deliver actionable digital intelligence, optimize agricultural workflows, and enhance sustainable farming practices.</p>
       <ul>
-        <li><b>Core Concept:</b> AI-assisted agricultural monitoring and decision-support systems.</li>
-        <li><b>Architecture:</b> Mobile client interface engineered with React Native, powered by Firebase and structured PostgreSQL data layers.</li>
-        <li><b>Applied AI:</b> Integrates Machine Learning models for intelligent agricultural predictions and advisory services.</li>
+        <li><b>Focus:</b> AI Integration, Sustainable Tech, Smart Agriculture</li>
+        <li><b>Ecosystem:</b> Full Stack Architecture with Intelligent Decision Support</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Quiz Management Application</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Spring%20Boot-FF3333?style=flat-square&labelColor=0D1117" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Database-MySQL-E50914?style=flat-square&labelColor=0D1117" alt="MySQL" />
+      </p>
+      <p>A comprehensive assessment and examination management system built with enterprise backend standards, automated grading logic, and secure relational data persistence.</p>
+      <ul>
+        <li><b>Technologies:</b> Java, Spring Boot, Spring Data JPA, MySQL</li>
+        <li><b>Highlights:</b> RESTful Services, Relational Schema Design, JPA ORM</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 💼 Experience
-
-<table width="100%">
-  <tr>
-    <td>
-      <h4 style="margin-bottom: 4px;">Full Stack Developer Intern &nbsp;•&nbsp; <i>Knite Infotech</i></h4>
-      <p><i>[Duration: Add Internship Timeline]</i></p>
-      <ul>
-        <li><b>Core Focus:</b> [Add key responsibilities and contributions here]</li>
-        <li><b>Full-Stack Development:</b> Contributed to client and server-side feature development, application workflows, and integration.</li>
-        <li><b>Technologies:</b> [Add specific tech stack details used during the internship]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
-</div>
-
-## 🏆 Achievements & Certifications
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🥇 DHRUVA '26</h4>
-      <p align="center"><b>First Place</b><br/>Among 70+ competing teams at Karpagam College of Engineering.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🇮🇳 Smart India Hackathon</h4>
-      <p align="center"><b>Top 500</b><br/>Nationwide finalist recognition in India's premier hackathon initiative.</p>
-    </td>
-    <td width="34%" valign="top">
-      <h4 align="center">📜 LambdaTest TestMu AI Marathon</h4>
-      <p align="center"><b>Certificate of Completion</b><br/><i>(Subject to verification of certificate details)</i></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
-</div>
-
-## 🧩 LeetCode & Problem Solving
+## 🧩 Problem Solving & Competitive Programming
 
 <div align="center">
 
@@ -162,16 +123,22 @@ Alongside core engineering, I am actively exploring **AI-assisted technology** a
 <br/>
 
 <a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode%20Profile-Srihari__Leetcode-071B35?style=flat-square&logo=leetcode&logoColor=00B8D9&labelColor=0A2540" alt="LeetCode Profile" />
+  <img src="https://img.shields.io/badge/Solve%20on-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=E50914" alt="LeetCode Handle" />
 </a>
-
-<br/>
-<sub><i>Click card or badge above to view live verification on LeetCode.</i></sub>
 
 </div>
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+</div>
+
+## 🏆 Honors & Achievements
+
+- 🥇 **DHRUVA '26** — **First Place** among 70+ participating teams.
+- 🏅 **Smart India Hackathon** — Recognized in the **Top 500** nationally.
+
+<div align="center">
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -182,12 +149,12 @@ Alongside core engineering, I am actively exploring **AI-assisted technology** a
     <tr>
       <td align="center">
         <a href="https://github.com/Srihari-Asus">
-          <img src="https://github-readme-stats.vercel.app/api?username=Srihari-Asus&show_icons=true&title_color=00B8D9&text_color=E8F7FC&icon_color=20D6C7&bg_color=071B35&border_color=087EAB&hide_border=false" alt="Srihari's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Srihari-Asus&show_icons=true&title_color=FF3333&text_color=FFFFFF&icon_color=FF3333&bg_color=0D1117&border_color=21262D&hide_border=false" alt="Srihari's GitHub Stats" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Srihari-Asus">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihari-Asus&layout=compact&title_color=00B8D9&text_color=E8F7FC&icon_color=20D6C7&bg_color=071B35&border_color=087EAB&hide_border=false" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihari-Asus&layout=compact&title_color=FF3333&text_color=FFFFFF&icon_color=FF3333&bg_color=0D1117&border_color=21262D&hide_border=false" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -196,13 +163,13 @@ Alongside core engineering, I am actively exploring **AI-assisted technology** a
   <br/>
 
   <a href="https://github.com/Srihari-Asus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srihari-Asus&theme=dark&background=071B35&border=087EAB&stroke=00B8D9&ring=20D6C7&fire=00B8D9&currStreakLabel=20D6C7&currStreakNum=E8F7FC&sideNums=E8F7FC&sideLabels=20D6C7&dates=087EAB" alt="GitHub Streak Tracker" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srihari-Asus&theme=dark&background=0D1117&border=21262D&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" alt="GitHub Streak" />
   </a>
 
 </div>
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
 ## 🐍 Contribution Graph
@@ -212,51 +179,33 @@ Alongside core engineering, I am actively exploring **AI-assisted technology** a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srihari-Asus/Srihari-Asus/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srihari-Asus/Srihari-Asus/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Oceanic Contribution Snake" src="assets/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="assets/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <div align="center">
-  <img src="assets/ocean-divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/Srihari-Asus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Srihari--Asus-071B35?style=for-the-badge&logo=github&logoColor=E8F7FC&labelColor=0A2540" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sriharis2305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sriharis2305-071B35?style=for-the-badge&logo=linkedin&logoColor=20D6C7&labelColor=0A2540" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Srihari__Leetcode-071B35?style=for-the-badge&logo=leetcode&logoColor=00B8D9&labelColor=0A2540" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:srihari23052007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srihari23052007%40gmail.com-071B35?style=for-the-badge&logo=gmail&logoColor=20D6C7&labelColor=0A2540" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sri.hari23" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-sri.hari23-071B35?style=for-the-badge&logo=instagram&logoColor=00B8D9&labelColor=0A2540" alt="Instagram" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sriharis2305" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Srihari%20S-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E50914" alt="LinkedIn Profile" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Srihari_Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=E50914" alt="LeetCode Profile" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Srihari-Asus" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Srihari--Asus-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=E50914" alt="GitHub Profile" />
+</a>
 
-<!-- Quote Card -->
-<img src="assets/quote.svg" alt="Developer Quote" width="100%" />
+<br/><br/>
 
-<br/>
-
-<!-- Oceanic Footer Waves -->
-<img src="assets/ocean-footer.svg" alt="Oceanic Footer Wave" width="100%" />
-
-<br/>
-
-<sub>Architected with Oceanic Tech Precision • <b>Srihari S</b> • 2026</sub>
+<sub>Designed with precision • <b>Srihari S</b> • 2026</sub>
 
 </div>
