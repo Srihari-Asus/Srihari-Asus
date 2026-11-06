@@ -41,14 +41,14 @@
 ## 📌 About Me
 
 ```yaml
-name: Srihari S
-role: Software Development Engineer Aspirant
-current_focus: Full Stack Engineering, DSA & Scalable Systems
-internship: Full Stack Developer Intern @ Knite Infotech
-education:
-  degree: B.E. Computer Science and Engineering
-  institution: Sri Krishna College of Technology
-  timeline: 2024 — 2028
+Name: Srihari S
+Role: Software Development Engineer Aspirant
+Current_focus: Full Stack Engineering, DSA & Scalable Systems
+Internship: Full Stack Developer Intern @ Knite Infotech
+Education:
+  Degree: B.E. Computer Science and Engineering
+  Institution: Sri Krishna College of Technology
+  Timeline: 2024 — 2028
 ```
 
 - 🎯 **Career Target:** Software Development Engineer (SDE)
