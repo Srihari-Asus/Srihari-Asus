@@ -1,0 +1,41 @@
+<svg fill="none" viewBox="0 0 950 90" width="100%" height="90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Wave Gradients -->
+    <linearGradient id="footer-wave-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#087EAB" stop-opacity="0.05" />
+      <stop offset="30%" stop-color="#00B8D9" stop-opacity="0.35" />
+      <stop offset="70%" stop-color="#20D6C7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#087EAB" stop-opacity="0.05" />
+    </linearGradient>
+
+    <linearGradient id="footer-wave-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#20D6C7" stop-opacity="0.0" />
+      <stop offset="40%" stop-color="#00B8D9" stop-opacity="0.5" />
+      <stop offset="60%" stop-color="#20D6C7" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#087EAB" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="center-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#071B35" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00B8D9" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#071B35" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background subtle ambient fill -->
+  <rect width="950" height="90" fill="url(#center-glow)" rx="10" />
+
+  <!-- Wave Layer 1 (Broad ambient curve) -->
+  <path d="M 0 50 C 180 20, 360 70, 475 45 C 590 20, 770 70, 950 45 L 950 90 L 0 90 Z" fill="url(#footer-wave-1)" />
+
+  <!-- Wave Layer 2 (Crisp glowing ridge) -->
+  <path d="M 0 55 C 220 28, 380 65, 475 48 C 570 30, 730 68, 950 50" fill="none" stroke="url(#footer-wave-2)" stroke-width="1.8" />
+  
+  <!-- Wave Layer 3 (Lower subtle accent) -->
+  <path d="M 0 68 C 250 48, 400 78, 475 64 C 550 50, 700 80, 950 62" fill="none" stroke="#087EAB" stroke-width="1" stroke-opacity="0.35" />
+
+  <!-- Center Bio-Node Anchor -->
+  <circle cx="475" cy="48" r="4" fill="#20D6C7" />
+  <circle cx="475" cy="48" r="9" stroke="#00B8D9" stroke-width="0.9" stroke-opacity="0.6" fill="none" />
+</svg>
+
