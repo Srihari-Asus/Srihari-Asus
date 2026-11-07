@@ -45,14 +45,14 @@
 ## 01 / ABOUT
 
 ```yaml
-profile:
-  identity: Srihari S.
-  status: Aspiring Software Development Engineer
-  institution: Sri Krishna College of Technology
-  degree: Bachelor of Engineering
-  department: Computer Science and Engineering
-  batch: 2024 — 2028
-  focus_areas:
+Profile:
+  Identity: Srihari S.
+  Status: Aspiring Software Development Engineer
+  Institution: Sri Krishna College of Technology
+  Degree: Bachelor of Engineering
+  Department: Computer Science and Engineering
+  Batch: 2024 — 2028
+  Focus_areas:
     - Software Engineering & Architecture
     - Full-Stack Application Development
     - Java & Algorithmic Problem Solving
@@ -135,11 +135,11 @@ In parallel with foundational engineering, I am actively exploring **AI-assisted
   <tr>
     <td>
       <h4 style="margin-bottom: 4px;">Full Stack Developer Intern &nbsp;&bull;&nbsp; <i>Knite Infotech</i></h4>
-      <p><i>[Duration: Add Internship Timeline]</i></p>
+      <p><i>[Duration: June 2026 - July 2026]</i></p>
       <ul>
         <li><b>Scope:</b> Full-stack web application development, frontend component integration, and backend API service design.</li>
-        <li><b>Engineering:</b> [Add specific contributions and project responsibilities]</li>
-        <li><b>Technologies:</b> [Add specific tools and frameworks utilized]</li>
+        <li><b>Engineering:</b> Developed frontend UI for the project named "Milzo" - a project that connect rural dairy farmers and customers</li>
+        <li><b>Technologies:</b> Used React.Js and Tailwind css for developing the frontend UI</li>
       </ul>
     </td>
   </tr>
