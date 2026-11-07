@@ -1,0 +1,62 @@
+<svg fill="none" viewBox="0 0 950 110" width="100%" height="110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11101D" />
+      <stop offset="50%" stop-color="#19152B" />
+      <stop offset="100%" stop-color="#211C35" />
+    </linearGradient>
+
+    <linearGradient id="footer-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7657E8" />
+      <stop offset="50%" stop-color="#4D9BFF" />
+      <stop offset="100%" stop-color="#D9CCFF" />
+    </linearGradient>
+
+    <radialGradient id="footer-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7657E8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#11101D" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .footer-quote {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+      font-weight: 500;
+      font-size: 13.5px;
+      letter-spacing: 0.5px;
+      fill: #D9CCFF;
+      text-anchor: middle;
+    }
+    .footer-tagline {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Mono', monospace;
+      font-weight: 600;
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      fill: #A9A2BC;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Base Card -->
+  <rect width="950" height="110" rx="12" fill="url(#footer-bg)" />
+  <rect width="950" height="110" rx="12" fill="url(#footer-glow)" />
+  <rect x="1" y="1" width="948" height="108" rx="11" fill="none" stroke="#211C35" stroke-width="1.2" />
+
+  <!-- Subtle Top Accent Ridge -->
+  <line x1="250" y1="2" x2="700" y2="2" stroke="url(#footer-accent)" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Central Geometric Floating Nodes -->
+  <g transform="translate(475, 26)">
+    <polygon points="0,-10 9,-5 0,0 -9,-5" fill="#7657E8" stroke="#D9CCFF" stroke-width="0.8" />
+    <polygon points="-9,-5 0,0 0,9 -9,4" fill="#211C35" stroke="#4D9BFF" stroke-width="0.6" />
+    <polygon points="0,0 9,-5 9,4 0,9" fill="#4D9BFF" stroke="#7657E8" stroke-width="0.6" />
+  </g>
+
+  <!-- Developer Statement -->
+  <text x="475" y="66" class="footer-quote">“Engineering resilient, scalable architectures through geometric precision and algorithmic discipline.”</text>
+
+  <!-- Tagline -->
+  <text x="475" y="88" class="footer-tagline">DIGITAL DIMENSION // SRIHARI S. // 2026</text>
+</svg>
+
