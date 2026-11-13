@@ -9,7 +9,7 @@
 
 <!-- Subtle Typing Introduction -->
 <a href="https://github.com/Srihari-Asus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7657E8&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Computer+Science+Student+%7C+Aspiring+Software+Developer;Full+Stack+Developer+Intern+%40+Knite+Infotech;B.E.+Computer+Science+%26+Engineering+(2024-2028);Java%2C+Problem+Solving+%26+Intelligent+Technology" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7657E8&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Computer+Science+Student+%7C+Aspiring+Software+Developer;B.E.+Computer+Science+%26+Engineering+(2024-2028);Java%2C+Problem+Solving+%26+Intelligent+Technology" alt="Typing Introduction" />
 </a>
 
 <br/>
