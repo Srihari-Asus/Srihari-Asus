@@ -247,6 +247,6 @@ In parallel with foundational engineering, I am actively exploring **AI-assisted
 
 <br/><br/>
 
-<sub>Digital Dimension Portfolio &bull; Designed for <b>Srihari S.</b> &bull; 2026</sub>
+
 
 </div>
