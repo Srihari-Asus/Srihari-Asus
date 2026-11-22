@@ -42,7 +42,7 @@
 
 </div>
 
-## 01 / ABOUT
+## ABOUT ME
 
 ```yaml
 Profile:
@@ -68,7 +68,7 @@ In parallel with foundational engineering, I am actively exploring **AI-assisted
   <img src="assets/dimension-divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 02 / EXPERTISE
+## EXPERTISE
 
 <div align="center">
 
@@ -85,57 +85,6 @@ In parallel with foundational engineering, I am actively exploring **AI-assisted
 <div align="center">
   <img src="assets/dimension-divider.svg" alt="Section Divider" width="100%" />
 </div>
-
-## 06 / PROBLEM SOLVING
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Srihari_Leetcode?theme=dark&font=Fira%20Code" alt="Srihari's LeetCode Stats" />
-</a>
-
-<br/>
-
-<a href="https://leetcode.com/u/Srihari_Leetcode/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode%20Profile-Srihari__Leetcode-11101D?style=flat-square&logo=leetcode&logoColor=D9CCFF&labelColor=211C35" alt="LeetCode Profile Link" />
-</a>
-
-<br/>
-<sub><i>Click card or badge above to view live verification on LeetCode.</i></sub>
-
-</div>
-
-<div align="center">
-  <img src="assets/dimension-divider.svg" alt="Section Divider" width="100%" />
-</div>
-
-## 07 / GITHUB ACTIVITY
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Srihari-Asus">
-          <img src="https://github-readme-stats.vercel.app/api?username=Srihari-Asus&show_icons=true&title_color=7657E8&text_color=F4F0FF&icon_color=4D9BFF&bg_color=11101D&border_color=211C35&hide_border=false" alt="Srihari's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Srihari-Asus">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihari-Asus&layout=compact&title_color=7657E8&text_color=F4F0FF&icon_color=4D9BFF&bg_color=11101D&border_color=211C35&hide_border=false" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://github.com/Srihari-Asus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srihari-Asus&theme=dark&background=11101D&border=211C35&stroke=7657E8&ring=4D9BFF&fire=7657E8&currStreakLabel=D9CCFF&currStreakNum=F4F0FF&sideNums=F4F0FF&sideLabels=A9A2BC&dates=4D9BFF" alt="GitHub Streak Tracker" />
-  </a>
-
-</div>
-
 <br/>
 
 <div align="center">
