@@ -105,7 +105,7 @@ In parallel with foundational engineering, I am actively exploring **AI-assisted
 <div align="center">
 
 <a href="https://github.com/Srihari-Asus">
-  <img src="assets/dimension-footer.svg" alt="Digital Dimension Statement" width="100%" />
+  <img src="assets/dimension-footer.svg" alt="" width="100%" />
 </a>
 
 <br/><br/>
